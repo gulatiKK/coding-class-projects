@@ -34,14 +34,18 @@ td{
 	height: 60px;
 	text-align: center;
 	font-size: xx-large;
-
 }
 
 .orange{
-	color: #ff3300;
+	color:#000;
 }
 
 td:active{
 	background-color: #e0e0d1;
 	border-radius: 20px;
+}
+
+body{
+  background-color:black;
+  margin-top: 200px;
 }
