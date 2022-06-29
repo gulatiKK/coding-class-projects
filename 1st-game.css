@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 334px;
+    font-size: 40px;
+}
+
+button{
+    width: 100px;
+    height:100px;
+    text-align: center;
+    padding: 30px;
+    background-color: aqua;
+}
